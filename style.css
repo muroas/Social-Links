@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    font-family: "poppinsfamily";
+    color: #BB99DD;
+}
+
+@font-face {
+    font-family: "poppinsfamily";
+    src: url("Poppins-Light.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.imagem {
+    text-align: center;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgs {
+    border-radius: 50%;
+    border: 2px solid #BB99DD;
+    padding: 4px;
+}
+
+.instagram {
+    text-align: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 300;
+}
+
+.social {
+    text-align: center;
+}
+
+.instagramsocial {
+    border: 2px solid #BB99DD;
+    border-radius: 5px;
+    padding: 10px 90px;
+    text-decoration: none;
+    transition: background 0.2s linear 0s;
+    font-weight: 600;
+}
+
+.instagramsocial:hover {
+    background: #eddcff;
+}
+
+.linkedin {
+    border: 2px solid #BB99DD;
+    border-radius: 5px;
+    padding: 10px 100px;
+    text-decoration: none;
+    transition: background 0.2s linear 0s;
+    font-weight: 600;
+}
+
+.linkedin:hover {
+    background: #eddcff;
+}
+
+.github {
+    border: 2px solid #BB99DD;
+    border-radius: 5px;
+    padding: 10px 105px;
+    text-decoration: none;
+    transition: background 0.2s linear 0s;
+    font-weight: 600;
+}
+
+.github:hover {
+    background: #eddcff;
+}
+
+.assets {
+    text-align: center;
+}
+
